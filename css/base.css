@@ -49,9 +49,32 @@ ul {
   background: #3acec2;
   padding: 3.2rem 0;
   color: #fff;
+  margin-bottom: 48px;
 }
 
 .main-header .logo {
   width: 190px;
   margin-bottom: 1.2rem;
+}
+
+/* Showcase */
+.row .col {
+  padding: 1rem;
+  background: #edf4f7;
+  border-radius: 5px;
+  margin: 0.8rem 0.3rem;
+}
+
+.row .col h2,
+.row .col p {
+  margin-bottom: 1rem;
+}
+
+.btn-primary {
+  background: #3acec2;
+  padding: 0.625rem 1.25rem;
+  margin-top: 0.3rem;
+  border-radius: 5px;
+  color: #fff;
+  text-align: center;
 }
